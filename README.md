@@ -83,13 +83,7 @@ The local DVC remote is intended for this lab environment. It is not shared clou
 
 The `reports/` directory contains model metric JSON files and the model comparison CSV. The `reports/figures/` directory contains visual evaluation artifacts.
 
-The accompanying lab report should include screenshots of MLflow runs and artifacts, registered model versions and lifecycle metadata, Git/DVC dataset history, and the successful recovery test.
-
-### Repository
-
-GitHub: https://github.com/vixvo777/ML_HousePrice_prediction
-
-Submission branch: `mlops-lab-submission`
+The accompanying lab report should include screenshots of MLflow runs and artifacts, registered model versions and lifecycle metadata, Git/DVC dataset history, and the successful recovery test
 
 ### Tools and references
 
